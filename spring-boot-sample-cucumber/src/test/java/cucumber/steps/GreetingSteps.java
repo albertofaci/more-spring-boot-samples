@@ -11,7 +11,7 @@ import static org.junit.Assert.assertThat;
 
 /**
  * XXX: Note that in this example you are obtaining the GreetingResource from the same Spring context the application is
- * running on. Therefore the method the_greeting_service_is_called is a plain function call and does not go over HTTP
+ * running on. Therefore the resource method call is a plain function call and does not go over HTTP.
  */
 @CucumberStepsDefinition
 public class GreetingSteps {
