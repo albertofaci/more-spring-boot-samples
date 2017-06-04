@@ -9,6 +9,8 @@
     <modules>
         <module>spring-boot-sample-cucumber</module>
         <module>spring-boot-sample-cucumber-over-http</module>
+        <module>spring-boot-sample-integration-test</module>
+        <module>spring-boot-sample-integration-test-over-http</module>
     </modules>
     <packaging>pom</packaging>
 

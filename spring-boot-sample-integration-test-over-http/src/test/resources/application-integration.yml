@@ -1,0 +1,2 @@
+#different message in "integration" profile for integration tests
+greeting.message: How's it going?
